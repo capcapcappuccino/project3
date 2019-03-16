@@ -31,3 +31,12 @@ SSH key you created for the grader - Notes to Reviewer
 1) LinuxCourse is the private SSH key
 2) grader is the passphrase
 3) Should be able to access through ssh grader@3.86.81.242 -p 2200 -i ~/.ssh/linuxCourse
+
+Third party resources
+-------------------
+1) https://lightsail.aws.amazon.com/ls/webapp/home/instances
+2) https://github.com/capcapcappuccino/project2
+3) https://github.com/capcapcappuccino/project3
+4) https://console.developers.google.com/apis/credentials?project=sportscatalogapp
+5) https://console.developers.google.com/apis/credentials/consent?project=sportscatalogapp
+6) https://knowledge.udacity.com/?nanodegree=5d0abf4a-496f-11e8-b517-e31790f491a9
